@@ -1,0 +1,29 @@
+.section-title {
+    color: aliceblue;
+    background-color: #333;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+#hero {
+    background-image: url(./img/b3.gif);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+    z-index: 1;
+}
+
+iframe {
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 5px #1ba87e;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
